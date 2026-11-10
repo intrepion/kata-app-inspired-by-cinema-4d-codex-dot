@@ -23,3 +23,8 @@ Visit the main app and `http://127.0.0.1:4314/tests/responsive.html` for desktop
 ## Boundaries
 
 No Safari, Firefox, physical touch device, assistive-technology audit, or long-duration performance claim. Autosave depends on browser storage; downloaded project files remain the durable backup.
+
+
+## Publication
+
+The tested runtime commit `e822353487d17df8e1665fa91d02237788e61bd2` was pushed to [the public repository](https://github.com/intrepion/kata-app-inspired-by-cinema-4d-codex-dot). Its checks, build, and GitHub Pages deployment succeeded in [run 42748771461](https://github.com/intrepion/kata-app-inspired-by-cinema-4d-codex-dot/actions/runs/42748771461) on 2026-11-10. The app is available at [Kata Orbitweave](https://intrepion.github.io/kata-app-inspired-by-cinema-4d-codex-dot/). This publication record does not expand the local device, accessibility or file-dialog verification described above.

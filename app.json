@@ -8,7 +8,7 @@
   "tagline": "One shape. Endless rhythm.",
   "description": "An original local-first procedural motion playground with clone distributions, effectors, palettes, and seamless loops.",
   "entryPoint": "index.html",
-  "status": "local-prototype",
+  "status": "live",
   "toolShedUrl": "https://intrepion.github.io/tools/",
   "features": [
     "Grid, radial and helix cloners",
@@ -30,5 +30,6 @@
     "name": "Cinema 4D",
     "url": "https://www.maxon.net/en/cinema-4d/features/mograph-basics"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "launchUrl": "https://intrepion.github.io/kata-app-inspired-by-cinema-4d-codex-dot/"
 }
