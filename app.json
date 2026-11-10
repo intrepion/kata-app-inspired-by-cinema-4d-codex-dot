@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "kind": "app",
+  "title": "Kata Orbitweave",
+  "repository": "kata-app-inspired-by-cinema-4d-codex-dot",
+  "section": "Kata Tool Shed",
+  "category": "Art & Design",
+  "tagline": "One shape. Endless rhythm.",
+  "description": "An original local-first procedural motion playground with clone distributions, effectors, palettes, and seamless loops.",
+  "entryPoint": "index.html",
+  "status": "local-prototype",
+  "toolShedUrl": "https://intrepion.github.io/tools/",
+  "features": [
+    "Grid, radial and helix cloners",
+    "Cubes and spheres",
+    "Wave, twist and scatter effectors",
+    "Radial falloff",
+    "Seamless loop playback",
+    "Orbit camera controls",
+    "Undo and redo",
+    "Validated project import and export",
+    "1800 × 1200 PNG export",
+    "Local autosave"
+  ],
+  "screenshots": [
+    "docs/screenshots/desktop.png",
+    "docs/screenshots/narrow.png"
+  ],
+  "inspiration": {
+    "name": "Cinema 4D",
+    "url": "https://www.maxon.net/en/cinema-4d/features/mograph-basics"
+  },
+  "license": "MIT"
+}
