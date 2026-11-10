@@ -75,3 +75,7 @@ The browser test harness mocks downloads and accepts its own replacement dialogs
 ## License and inspiration
 
 MIT. Original code, procedural graphics, and interface assets. Inspired by [Cinema 4D MoGraph](https://www.maxon.net/en/cinema-4d/features/mograph-basics), without affiliation or endorsement. No proprietary assets or software are included. The combined `.gitignore` covers Windows, macOS, Linux/Unix, editors, build outputs, dependency folders, local secrets, and test artifacts.
+
+## Publishing
+
+The GitHub Pages workflow checks and builds the app on pushes to `main` or manual dispatch, then deploys `dist/`. In repository Settings → Pages, choose **GitHub Actions** as the source. Deployment is separate from the local QA recorded above.
